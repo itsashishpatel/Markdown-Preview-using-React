@@ -1,0 +1,14 @@
+body{
+    background-color:#e6e6fa;
+  }
+
+  #editor, #preview {
+    
+    font-family: Lucida Console;
+    box-shadow: 10px 10px 5px grey;
+    background-color:#bf94e4;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    margin: 15px 0px 15px 0px;
+  }
